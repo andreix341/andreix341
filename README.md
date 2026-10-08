@@ -1,6 +1,6 @@
 ## Hi
 
-Cybersecurity student and developer focused on web security, automation, and networking.
+Cybersecurity student and developer focused on web security, penetration testing, automation, and networking.
 
 Write-ups and other information: [Website](https://andreix341.github.io/)
 
